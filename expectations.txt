@@ -1,0 +1,1 @@
+i expect to have basic knowledge in python and its application in bioinformatics
